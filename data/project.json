@@ -1,21 +1,29 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_static_site": false,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "include_slug_in_base": true
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "KDMV17",
+    "is_private": false,
+    "title": "the The Benson Musical Scores Collection",
+    "description": "\"The Benson Musical Scores Collection: An Interactive Musicology Exhibition via AVAnnotate\" aims to digitise access to rare Latin American sheet music by transforming static archival documents into an interactive digital exhibition. Through the manual transcription of 5–10 selected scores into MusicXML and MIDI formats, the project will utilise the AVAnnotate platform to synchronise these musical files with scholarly analysis and time-stamped annotations. This initiative creates an open-access scholarly resource to facilitate deeper engagement with understudied regional musical traditions for musicologists and performers worldwide.",
+    "language": "en",
+    "slug": "benson-musical-scores-avannotate",
+    "creator": "KDMV17",
+    "authors": "Benson Latin American Collection - UT Libraries",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-08-25T02:00:33.726Z",
+    "updated_at": "2026-08-25T02:00:33.726Z"
   }
 }
