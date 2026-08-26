@@ -1,12 +1,21 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-08-25T02:00:33.746Z",
   "created_by": "KDMV17",
   "title": "the The Benson Musical Scores Collection",
-  "updated_at": "2026-08-25T02:00:33.746Z",
+  "updated_at": "2026-08-26T13:43:26.529Z",
   "updated_by": "KDMV17",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
