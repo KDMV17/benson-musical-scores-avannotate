@@ -17,7 +17,7 @@
     "github_org": "KDMV17",
     "is_private": false,
     "title": "The Benson Musical Scores Collection",
-    "description": "\"The Benson Musical Scores Collection: An Interactive Musicology Exhibition via AVAnnotate\" aims to digitise access to rare Latin American sheet music by transforming static archival documents into an interactive digital exhibition. Through the manual transcription of 5–10 selected scores into MusicXML and MIDI formats, the project will utilise the AVAnnotate platform to synchronise these musical files with scholarly analysis and time-stamped annotations. This initiative creates an open-access scholarly resource to facilitate deeper engagement with understudied regional musical traditions for musicologists and performers worldwide.",
+    "description": "The Benson Musical Scores Collection: An Interactive Musicology Exhibition via AVAnnotate\" aims to digitise access to rare Latin American sheet music by transforming static archival documents into an interactive digital exhibition. Through the manual transcription of 5–10 selected scores into MusicXML and MIDI formats, the project will utilise the AVAnnotate platform to synchronise these musical files with scholarly analysis and time-stamped annotations. This initiative creates an open-access scholarly resource to facilitate deeper engagement with understudied regional musical traditions for musicologists and performers worldwide.",
     "language": "en",
     "slug": "benson-musical-scores-avannotate",
     "creator": "KDMV17",
@@ -30,7 +30,7 @@
       "tags": []
     },
     "created_at": "2026-08-25T02:00:33.726Z",
-    "updated_at": "2026-08-26T02:44:43.947Z",
+    "updated_at": "2026-08-26T02:45:22.526Z",
     "generate_pages_site": true
   },
   "annotations": {},
